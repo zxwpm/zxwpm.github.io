@@ -1,3 +1,8 @@
+[Adblock Plus 2.0]
+! Version: 202006271136
+! Title: Zxwom's Blocking List
+! Last modified: 27 Jun 2020 11:36 UTC
+!--------------------------General blocking rules-----------------------------!
 dlads.cn/
 googlesyndication.com/
 gsp0.baidu.com/
