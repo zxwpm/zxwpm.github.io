@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Version: 202006271136
 ! Title: Zxwom's Blocking List
-! Last modified: 27 Jun 2020 11:36 UTC
+! Last modified: 27 6月2020日 11:36 UTC
 !--------------------------General blocking rules-----------------------------!
 dlads.cn/
 googlesyndication.com/
@@ -11,3 +11,19 @@ pos.baidu.com/
 baidustatic.com/
 securepubads.g.doubleclick.net/
 statics.woozooo.com/
+
+!--------------------------blog.csdn.net rules-----------------------------!
+blog.csdn.net##.recommend-box.first-recommend-box
+blog.csdn.net##.csdn-tracking-statistics.mb8.box-shadow
+blog.csdn.net##.bottom-pub-footer.footer-box.pub_fo
+blog.csdn.net##.adsbygoogle
+blog.csdn.net###toolBarBox
+blog.csdn.net###footerRightAds
+blog.csdn.net###csdn-toolbar
+blog.csdn.net###asideSearchArticle
+blog.csdn.net###asideProfile
+blog.csdn.net###asideNewComments
+blog.csdn.net###asideNewArticle
+blog.csdn.net###asideHotArticle
+blog.csdn.net###asideCategory
+blog.csdn.net###asideArchive
