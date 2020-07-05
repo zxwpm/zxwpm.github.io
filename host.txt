@@ -62,6 +62,20 @@ pc6.com##.tablist
 pc6.com##.downnow
 pc6.com##.catTable
 pc6.com##.ad-download
+pc6.com##.search_fixed
+pc6.com##.bdcs-hot
+pc6.com##.ad
+pc6.com##.sendErr-wrap.yellowCase
+pc6.com###topNavC
+pc6.com###todaym
+pc6.com###recomc
+pc6.com###reci
+pc6.com###rank
+pc6.com###necessary
+pc6.com###innzt
+pc6.com###ctrl
+pc6.com###bdfx
+pc6.com###ad
 pc6.com###xgw
 pc6.com###xgsp
 pc6.com###xgk
@@ -70,4 +84,6 @@ pc6.com###xgb
 pc6.com###samesoft
 pc6.com###gaosuxiazai
 pc6.com###company
+pc6.com##h3[style="margin:5px 0 -5px 0"]
+
 
