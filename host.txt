@@ -47,6 +47,27 @@ wenku.baidu.com##.reader-tools-bar-wrap
 wenku.baidu.com##.wkfc-wrap.ad-onff
 wenku.baidu.com##.zsj-topbar.mini
 wenku.baidu.com###banurl
+wenku.baidu.com##.service-entry
+wenku.baidu.com###view-like-recom
+wenku.baidu.com###guess-like-doc
+wenku.baidu.com##.wk-other-new-cntent
+wenku.baidu.com##.fc-container.ad-onff
+wenku.baidu.com##.fengchao-right
+wenku.baidu.com##.bg-wrapper
+wenku.baidu.com##.topbar-wrapper
+wenku.baidu.com##.operate-wrapper
+wenku.baidu.com##.join-vip
+wenku.baidu.com##.doc-voucher-wrap
+wenku.baidu.com##.search-box-wrapper.small
+wenku.baidu.com##.reader-topbar
+wenku.baidu.com##.relative-doc-wrapper
+wenku.baidu.com##.relative-course-wrapper
+wenku.baidu.com##.relative-recommend-wrapper
+wenku.baidu.com##.extension
+wenku.baidu.com##.cover
+wenku.baidu.com##.hx-recom-wrapper
+wenku.baidu.com##.vip-layer-inner
+wenku.baidu.com##.hx-warp
 
 !--------------------------pc6.com rules-----------------------------!
 pc6.com##.tagsk
