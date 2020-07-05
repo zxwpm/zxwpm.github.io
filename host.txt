@@ -50,7 +50,6 @@ wenku.baidu.com##.wkfc-wrap.ad-onff
 wenku.baidu.com##.zsj-topbar.mini
 wenku.baidu.com###banurl
 wenku.baidu.com###guess-like-doc
-wenku.baidu.com###view-like-recom
 
 !--------------------------pc6.com rules-----------------------------!
 pc6.com##.tagsk
