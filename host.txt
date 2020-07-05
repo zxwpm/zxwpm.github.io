@@ -5,12 +5,16 @@
 !--------------------------General blocking rules-----------------------------!
 dlads.cn/
 googlesyndication.com/
+securepubads.g.doubleclick.net/
+statics.woozooo.com/
+
+!--------------------------baidu.com rules-----------------------------!
+baidu.com###content_right
 gsp0.baidu.com/
 hm.baidu.com/
 pos.baidu.com/
 baidustatic.com/
-securepubads.g.doubleclick.net/
-statics.woozooo.com/
+
 
 !--------------------------blog.csdn.net rules-----------------------------!
 csdnimg.cn/release/phoenix/template/themes_skin/
