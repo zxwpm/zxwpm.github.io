@@ -39,10 +39,7 @@ blog.csdn.net##[data-type="ad"]
 
 !--------------------------wenku.baidu.com rules-----------------------------!
 wenku.baidu.com##.doc-aside-border
-wenku.baidu.com###doc-aside-border
 wenku.baidu.com##.top-ads-container
-wenku.baidu.com##.service-entry
-wenku.baidu.com###doc-upload
 wenku.baidu.com##.banner-ad.banner-wrap
 wenku.baidu.com##.fix-searchbar-wrap
 wenku.baidu.com##.ft
@@ -86,4 +83,135 @@ pc6.com###gaosuxiazai
 pc6.com###company
 pc6.com##h3[style="margin:5px 0 -5px 0"]
 
+!--------------------------zol.com.cn rules-----------------------------!
+p.zol.com.cn/download/detail.js
+zol.com.cn##.xiazaic-topb-box
+zol.com.cn##.wrapper.tonglan-foot
+zol.com.cn##.wrapper.ad-div
+zol.com.cn##.fixed-bar
+zol.com.cn##.down-right
+zol.com.cn##.down-gaosub
+zol.com.cn##.aside
+zol.com.cn##.ad-div
+zol.com.cn##li[class="recommend"]
+zol.com.cn##.tag-list
+zol.com.cn##.soft-item
+zol.com.cn##.site-nav
+zol.com.cn##.single-item.clearfix
+zol.com.cn##.section-header
+zol.com.cn##.button-box.tanceng
 
+
+!--------------------------zyouxiaxiazai.com rules-----------------------------!
+youxiaxiazai.com##.top-nav
+youxiaxiazai.com##.nryfl-w
+youxiaxiazai.com##.nry-w300
+youxiaxiazai.com###cnxy
+
+
+!--------------------------xp510.com.cn rules-----------------------------!
+xp510.com##.w1200
+xp510.com##.topbox
+xp510.com##.search-key
+xp510.com##.samesoft
+xp510.com##.gaosu
+xp510.com##.c-w300
+xp510.com##.bzClick2
+xp510.com##.bzClick
+
+
+!--------------------------uzzf.com rules-----------------------------!
+uzzf.com##h3[style="margin:0 0 -5px 0;"]
+uzzf.com##.topdown
+uzzf.com##.m-xx-right
+uzzf.com##.m-resoft
+uzzf.com##.m-center-r
+uzzf.com##.g-top
+uzzf.com##.g-footer
+uzzf.com##.address_r
+uzzf.com###xgwz
+uzzf.com###vote
+uzzf.com###blzx
+uzzf.com###bltj
+
+
+!--------------------------onlinedown.net rules-----------------------------!
+onlinedown.net##.xianssort
+onlinedown.net##.topnavBox
+onlinedown.net##.right
+onlinedown.net##.relateSoft
+onlinedown.net##.onedownbtn2
+onlinedown.net##.hotSearch
+onlinedown.net##.downgs.downgsPc.clearfix.qrcode_show
+onlinedown.net##.downdecailHeads.fixed
+onlinedown.net##.dincai
+onlinedown.net##.autotab
+
+!--------------------------jb51.net rules-----------------------------!
+jb51.net##div[class*="logor"]
+jb51.net##div[class*="logom"]
+jb51.net##.tonglan
+jb51.net##.softsfwtl
+jb51.net##.gsdw
+jb51.net##.down4
+jb51.net##.da-download
+jb51.net##.da
+jb51.net###xgw1
+jb51.net###topbar
+jb51.net###sidebar
+jb51.net###samesoft
+jb51.net###gaosu
+
+!--------------------------greenxf.com rules-----------------------------!
+greenxf.com##.softShowBanner-ad
+greenxf.com##.softInfo-tab.fixed
+greenxf.com##.softInfo-right
+greenxf.com##.relSoft-box
+greenxf.com##.header-top
+greenxf.com###speed-downloader
+greenxf.com###speed-download
+greenxf.com###showDownlad-relNews
+greenxf.com###showDownlad-like
+greenxf.com###goTop
+greenxf.com###autoTab
+
+
+!--------------------------downxia.com rules-----------------------------!
+downxia.com##.sm-soft
+downxia.com##.rmss_a
+downxia.com##.p3
+downxia.com##.hot_soft_down.m1
+downxia.com##.hd-top
+downxia.com##.gaosu_down_div
+downxia.com##.col-r
+downxia.com###fd
+
+
+!--------------------------ddooo.com rules-----------------------------!
+ddooo.com##.xzbtn
+ddooo.com##.topbar
+ddooo.com##.star_r
+ddooo.com##.sendErr-wrap
+ddooo.com##.right
+ddooo.com##.pljt
+ddooo.com##.hot-keyword
+ddooo.com##.gs_list
+ddooo.com##.downloadright
+ddooo.com##.Relevantsoft
+ddooo.com###pingjia
+ddooo.com###pingfen
+
+
+!--------------------------cr173.com# rules-----------------------------!
+cr173.com##[data*="viewAds"]
+cr173.com##.m-titbdiv
+cr173.com##.m-bdtn.downnowgaosu
+cr173.com##.m-backtop
+cr173.com##.g-top-box
+cr173.com##.c_soft_same
+cr173.com##.c_soft_pic
+cr173.com##.c_soft_button
+cr173.com##.c_info_side
+cr173.com###nav
+cr173.com###full_downad
+cr173.com###foot
