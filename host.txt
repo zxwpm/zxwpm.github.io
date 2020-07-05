@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202007051100
+! Version: 202007051116
 ! Title: Zxwom's Blocking List
-! Last modified: 05 7月2020日 11:30 UTC
+! Last modified: 05 7月2020日 11:16 UTC
 !--------------------------General blocking rules-----------------------------!
 dlads.cn/
 googlesyndication.com/
@@ -54,3 +54,13 @@ wenku.baidu.com##.zsj-topbar.mini
 wenku.baidu.com###banurl
 wenku.baidu.com###guess-like-doc
 wenku.baidu.com###view-like-recom
+
+!--------------------------pc6.com rules-----------------------------!
+pc6.com##.ad-download
+pc6.com##.tablist
+pc6.com##.mtab
+pc6.com##.ad2
+pc6.com##.xgk
+pc6.com###ad
+pc6.com###ad-download
+pc6.com###cbox
