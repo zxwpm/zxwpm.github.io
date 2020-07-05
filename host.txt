@@ -38,18 +38,15 @@ blog.csdn.net##[data-type="ad"]
 
 
 !--------------------------wenku.baidu.com rules-----------------------------!
-wenku.baidu.com##.doc-aside-border
 wenku.baidu.com##.top-ads-container
 wenku.baidu.com##.banner-ad.banner-wrap
 wenku.baidu.com##.fix-searchbar-wrap
 wenku.baidu.com##.ft
 wenku.baidu.com##.mod.lastcell-dialog
 wenku.baidu.com##.reader-tools-bar-wrap
-wenku.baidu.com##.wk-other-new-cntent
 wenku.baidu.com##.wkfc-wrap.ad-onff
 wenku.baidu.com##.zsj-topbar.mini
 wenku.baidu.com###banurl
-wenku.baidu.com###guess-like-doc
 
 !--------------------------pc6.com rules-----------------------------!
 pc6.com##.tagsk
