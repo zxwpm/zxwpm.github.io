@@ -13,9 +13,11 @@ securepubads.g.doubleclick.net/
 statics.woozooo.com/
 
 !--------------------------blog.csdn.net rules-----------------------------!
+csdnimg.cn/release/phoenix/template/themes_skin/
 blog.csdn.net##.recommend-box.first-recommend-box
 blog.csdn.net##.csdn-tracking-statistics.mb8.box-shadow
 blog.csdn.net##.bottom-pub-footer.footer-box.pub_fo
+blog.csdn.net##.banner-ad-box
 blog.csdn.net##.adsbygoogle
 blog.csdn.net###toolBarBox
 blog.csdn.net###footerRightAds
@@ -27,3 +29,24 @@ blog.csdn.net###asideNewArticle
 blog.csdn.net###asideHotArticle
 blog.csdn.net###asideCategory
 blog.csdn.net###asideArchive
+blog.csdn.net###advert
+blog.csdn.net##[data-type="ad"]
+
+
+!--------------------------wenku.baidu.com rules-----------------------------!
+wenku.baidu.com##.doc-aside-border
+wenku.baidu.com###doc-aside-border
+wenku.baidu.com##.top-ads-container
+wenku.baidu.com##.service-entry
+wenku.baidu.com###doc-upload
+wenku.baidu.com##.banner-ad.banner-wrap
+wenku.baidu.com##.fix-searchbar-wrap
+wenku.baidu.com##.ft
+wenku.baidu.com##.mod.lastcell-dialog
+wenku.baidu.com##.reader-tools-bar-wrap
+wenku.baidu.com##.wk-other-new-cntent
+wenku.baidu.com##.wkfc-wrap.ad-onff
+wenku.baidu.com##.zsj-topbar.mini
+wenku.baidu.com###banurl
+wenku.baidu.com###guess-like-doc
+wenku.baidu.com###view-like-recom
