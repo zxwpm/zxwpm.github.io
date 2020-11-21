@@ -261,5 +261,7 @@ cr173.com###full_downad
 cr173.com###class-soft
 !--相关文章精选--!
 cr173.com###class-cms
+!--下载帮助--!
+cr173.com###downhelp
 !--页脚--!
 cr173.com###foot
