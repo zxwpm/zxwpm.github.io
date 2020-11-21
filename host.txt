@@ -232,8 +232,10 @@ cr173.com##.m-bdtn.downnowgaosu
 cr173.com###ad_center
 !--下载相关--!
 cr173.com##.g-downxg
+cr173.com##.g-downaddli
 !--悬浮导航链接--!
 cr173.com###nav
+cr173.com##.m-titbdiv
 cr173.com##.m-key-link
 !--信息侧--!
 cr173.com##.c_info_side
