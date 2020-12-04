@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202007051719
+! Version: 202012042143
 ! Title: Zxwpm's Blocking List
-! Last modified: 05 7月2020日 17:19 UTC
+! Last modified: 04 12月2020日 21:43 UTC
 !--------------------------General blocking rules-----------------------------!
 dlads.cn/
 googlesyndication.com/
@@ -14,7 +14,7 @@ gsp0.baidu.com/
 hm.baidu.com/
 pos.baidu.com/
 baidustatic.com/
-
+bdstatic.com/
 
 !--------------------------blog.csdn.net rules-----------------------------!
 csdnimg.cn/release/phoenix/template/themes_skin/
@@ -70,154 +70,253 @@ wenku.baidu.com##.vip-layer-inner
 wenku.baidu.com##.hx-warp
 
 !--------------------------pc6.com rules-----------------------------!
-pc6.com##.tagsk
-pc6.com##.catTable
-pc6.com##.tablist
-pc6.com##.downnow
-pc6.com##.catTable
-pc6.com##.ad-download
-pc6.com##.search_fixed
-pc6.com##.bdcs-hot
-pc6.com##.ad
-pc6.com##.sendErr-wrap.yellowCase
+!--页顶--!
 pc6.com###topNavC
-pc6.com###todaym
-pc6.com###recomc
-pc6.com###reci
-pc6.com###rank
-pc6.com###necessary
-pc6.com###innzt
+!--热搜关键字--!
+pc6.com##.bdcs-hot
+!--广告--!
+pc6.com##.ad
+!--评分，投票--!
 pc6.com###ctrl
-pc6.com###bdfx
-pc6.com###ad
-pc6.com###xgw
-pc6.com###xgsp
+!--高速下载按钮--!
+pc6.com##.downnow
+!--专题--!
+pc6.com###innzt
+!--详情导航--!
+pc6.com##.zban.fixed
+pc6.com##.search_fixed
+pc6.com##.tablist
+!--右侧--!
+pc6.com##.sidebar
+!--相关软件--!
+pc6.com##.catTable
+!--精品推荐--!
 pc6.com###xgk
-pc6.com###xgd
-pc6.com###xgb
-pc6.com###samesoft
-pc6.com###gaosuxiazai
-pc6.com###company
+!--高速下载--!
 pc6.com##h3[style="margin:5px 0 -5px 0"]
+pc6.com###gaosuxiazai
+!--下载地址右侧广告--!
+pc6.com##.ad-download
+!-- 其他版本--!
+pc6.com###xgb
+!-- 相关视频--!
+pc6.com###xgsp
+!-- 人气软件--!
+pc6.com###xgd
+!-- 厂商--!
+pc6.com###company
+!-- 相关文章--!
+pc6.com###xgw
+!--热门关键词--!
+pc6.com###reci
+!--悬浮标签--!
+pc6.com###autotab
+!--页脚--!
+pc6.com###footer
 
 !--------------------------zol.com.cn rules-----------------------------!
-p.zol.com.cn/download/detail.js
+!--页顶--!
+zol.com.cn##.site-nav
+!--高速下载按钮--!
+zol.com.cn##.button-box.tanceng
+!--相关合集(软件)--!
+zol.com.cn##.single-item.clearfix
+!--内容右侧--!
+zol.com.cn##.aside
+!--悬浮导航链接--!
+zol.com.cn##.fixed-bar
+!--高速下载--!
 zol.com.cn##.xiazaic-topb-box
+zol.com.cn##.down-gaosub
+!--下载地址右侧广告--!
+zol.com.cn##.down-right
+!--其他广告--!
 zol.com.cn##.wrapper.tonglan-foot
 zol.com.cn##.wrapper.ad-div
-zol.com.cn##.fixed-bar
-zol.com.cn##.down-right
-zol.com.cn##.down-gaosub
-zol.com.cn##.aside
 zol.com.cn##.ad-div
-zol.com.cn##li[class="recommend"]
-zol.com.cn##.tag-list
-zol.com.cn##.soft-item
-zol.com.cn##.site-nav
-zol.com.cn##.single-item.clearfix
-zol.com.cn##.section-header
-zol.com.cn##.button-box.tanceng
+!--相关软件--!
+zol.com.cn##.tag-list.hot-soft-list
+
+p.zol.com.cn/download/detail.js
 
 
 !--------------------------zyouxiaxiazai.com rules-----------------------------!
+!--页顶--!
 youxiaxiazai.com##.top-nav
+!--内容与分类--!
 youxiaxiazai.com##.nryfl-w
+!--内容右侧--!
 youxiaxiazai.com##.nry-w300
+!--猜您需要--!
 youxiaxiazai.com###cnxy
+!--页脚--!
+youxiaxiazai.com###footer
 
-
-!--------------------------xp510.com.cn rules-----------------------------!
-xp510.com##.w1200
+!--------------------------xp510.com rules-----------------------------!
+!--页顶--!
 xp510.com##.topbox
+!--热搜关键字--!
 xp510.com##.search-key
+!--相关软件--!
 xp510.com##.samesoft
+!--高速下载按钮--!
 xp510.com##.gaosu
+!--信息侧--!
 xp510.com##.c-w300
+!--高速下载--!
 xp510.com##.bzClick2
 xp510.com##.bzClick
-
+!--页脚--!
+xp510.com###footer
 
 !--------------------------uzzf.com rules-----------------------------!
+!--页顶--!
+uzzf.com##.g-top
+!--相关软件--!
+uzzf.com##.m-xx-right
+!--投票--!
+uzzf.com###vote
+!--高速下载按钮--!
+uzzf.com##.f-uzzf-down
+!--信息侧--!
+uzzf.com##.m-center-r
+!--悬浮标签--!
+uzzf.com###jies
+uzzf.com##.tags.tags_fixed
+!--高速下载--!
 uzzf.com##h3[style="margin:0 0 -5px 0;"]
 uzzf.com##.topdown
-uzzf.com##.m-xx-right
-uzzf.com##.m-resoft
-uzzf.com##.m-center-r
-uzzf.com##.g-top
-uzzf.com##.g-footer
+!--下载地址右侧广告--!
 uzzf.com##.address_r
+!--扩展阅读--!
 uzzf.com###xgwz
-uzzf.com###vote
+!--本类最新软件--!
 uzzf.com###blzx
+!--本类软件推荐--!
 uzzf.com###bltj
-
+!--页脚--!
+uzzf.com##.g-footer
 
 !--------------------------onlinedown.net rules-----------------------------!
-onlinedown.net##.xianssort
+!--页顶--!
 onlinedown.net##.topnavBox
-onlinedown.net##.right
-onlinedown.net##.relateSoft
-onlinedown.net##.onedownbtn2
+!--热搜关键字--!
 onlinedown.net##.hotSearch
-onlinedown.net##.downgs.downgsPc.clearfix.qrcode_show
-onlinedown.net##.downdecailHeads.fixed
+!--相关软件--!
+onlinedown.net##.relateSoft
+!--相关软件旁边广告--!
+onlinedown.net##.right
+!--顶踩(评价)--!
 onlinedown.net##.dincai
+!--高速下载按钮--!
+onlinedown.net##.onedownbtn2
+!--下载的悬浮彩头--!
+onlinedown.net##.downdecailHeads.fixed
+!--相似软件--!
+onlinedown.net##.xianssort
+!--精彩推荐--!
 onlinedown.net##.autotab
+!--高速下载--!
+onlinedown.net##.downgs.downgsPc.clearfix.qrcode_show
+!--下载地址右侧广告--!
+onlinedown.net##.ad
+!--相关教程--!
+onlinedown.net###ItemXGJC
+!--所属专题，相关专题，相关下载--!
+onlinedown.net###ItemMax
 
 !--------------------------jb51.net rules-----------------------------!
+!--页顶--!
+jb51.net###topbar
+!--广告--!
 jb51.net##div[class*="logor"]
 jb51.net##div[class*="logom"]
 jb51.net##.tonglan
-jb51.net##.softsfwtl
-jb51.net##.gsdw
-jb51.net##.down4
-jb51.net##.da-download
-jb51.net##.da
-jb51.net###xgw1
-jb51.net###topbar
-jb51.net###sidebar
+!--相关软件--!
 jb51.net###samesoft
+!--高速下载按钮--!
+jb51.net##.gsdw
+!--信息侧--!
+jb51.net##.main-right
+!--高速下载--!
+jb51.net##.gs
 jb51.net###gaosu
+!--下载地址右侧广告--!
+jb51.net##.da-download
+!--相关文章--!
+jb51.net###xgw1
+!--页脚--!
+jb51.net###footer
 
 !--------------------------greenxf.com rules-----------------------------!
-greenxf.com##.softShowBanner-ad
-greenxf.com##.softInfo-tab.fixed
-greenxf.com##.softInfo-right
-greenxf.com##.relSoft-box
+!--页顶--!
 greenxf.com##.header-top
-greenxf.com###speed-downloader
+!--广告--!
+greenxf.com##.softShowBanner-ad
+!--高速下载按钮--!
 greenxf.com###speed-download
-greenxf.com###showDownlad-relNews
-greenxf.com###showDownlad-like
-greenxf.com###goTop
+!--相关软件--!
+greenxf.com##.relSoft-box
+!--信息侧--!
+greenxf.com##.softInfo-right
+!--软件信息悬浮标签--!
+greenxf.com##.softInfo-tab.fixed
 greenxf.com###autoTab
-
+!--高速下载--!
+greenxf.com###speed-downloader
+!--相关下载--!
+greenxf.com###showDownlad-relNews
+!--猜你喜欢--!
+greenxf.com###showDownlad-like
+!--页脚--!
+greenxf.com##.footer_base
 
 !--------------------------downxia.com rules-----------------------------!
-downxia.com##.sm-soft
-downxia.com##.rmss_a
-downxia.com##.p3
-downxia.com##.hot_soft_down.m1
+!--页顶--!
 downxia.com##.hd-top
-downxia.com##.gaosu_down_div
+!--热搜关键字--!
+downxia.com##.rmss_a
+!--相关软件--!
+downxia.com##.sm-soft
+!--高速下载按钮--!
+downxia.com##.bendown
+!--评价--!
+downxia.com##.p3
+!--信息侧--!
 downxia.com##.col-r
+!--高速下载--!
+downxia.com##h3[style="font-size:12px"]
+downxia.com##.gaosu_down_div
+!--人气软件--!
+downxia.com##.hot_soft_down.m1
+!--相关文章--!
+downxia.com##.g5.no_top_padding.m1
+!--页脚--!
 downxia.com###fd
 
-
 !--------------------------ddooo.com rules-----------------------------!
-ddooo.com##.xzbtn
+!--页顶--!
 ddooo.com##.topbar
-ddooo.com##.star_r
-ddooo.com##.sendErr-wrap
-ddooo.com##.right
-ddooo.com##.pljt
+!--热搜关键字--!
 ddooo.com##.hot-keyword
-ddooo.com##.gs_list
-ddooo.com##.downloadright
-ddooo.com##.Relevantsoft
+!--右侧相关--!
+ddooo.com##.right
+!--评价--!
 ddooo.com###pingjia
+!--评分--!
 ddooo.com###pingfen
-
+!--评论截图--!
+ddooo.com##.pljt
+!--高速下载按钮--!
+ddooo.com##.xzbtn
+!--高速下载--!
+ddooo.com##.gs_list
+!--下载地址右侧广告--!
+ddooo.com##.downloadright
+!--合集软件--!
+ddooo.com##.Hejisoft
+!--页脚--!
+ddooo.com###footer
 
 !--------------------------cr173.com# rules-----------------------------!
 !--页顶--!
@@ -265,3 +364,211 @@ cr173.com###class-cms
 cr173.com###downhelp
 !--页脚--!
 cr173.com###foot
+
+!--------------------------veryhuo.com# rules-----------------------------!
+!--页顶--!
+veryhuo.com##.top
+!--热搜关键字--!
+veryhuo.com##.search-key
+!--评价--!
+veryhuo.com##.p3
+!--高速下载按钮--!
+veryhuo.com##.bendown
+!--右侧--!
+veryhuo.com##.ranklist
+!--高速下载--!
+veryhuo.com##.list-down.fix.gs
+veryhuo.com##.list-down.list-down2.fix.gs2
+!--下载地址右侧--!
+veryhuo.com##.right
+!--相关阅读--!
+veryhuo.com##.xgydbox
+!--最新专题--!
+veryhuo.com##.spec
+
+!--------------------------xue51.com# rules-----------------------------!
+!--页顶--!
+xue51.com##.wl.top
+!--热搜关键字--!
+xue51.com##.sea_bot.wl
+!--高速下载按钮--!
+xue51.com##.DetCM1LLdown_new.ljdlbtn_new.gsbtn
+!--右侧相关软件--!
+xue51.com##.xgrj.r
+!--软件展示右侧--!
+xue51.com##.rj_show_cen_r
+!--高速下载--!
+xue51.com###addr
+xue51.com##.c_pt
+!--猜你喜欢--!
+xue51.com###cnxh
+!--相关文章--!
+xue51.com###xgwz
+
+!--------------------------cncrk.com# rules-----------------------------!
+!--页顶--!
+cncrk.com##.topbox
+!--高速下载按钮--!
+cncrk.com###gsxza
+!--右侧--!
+cncrk.com##.c-w300
+!--精品软件--!
+cncrk.com###jprj
+!--高速下载--!
+cncrk.com##.clearfix.gsdt
+!--大家都喜欢--!
+cncrk.com###djdxh
+
+!--------------------------downza.cn# rules-----------------------------!
+!--页顶--!
+downza.cn##.topnav
+!--热搜关键字--!
+downza.cn##.search_hot
+!--猜你喜欢--!
+downza.cn##.guess_head
+!--高速下载按钮--!
+downza.cn###xzqIMG1
+!--悬浮导航--!
+downza.cn##.side-down3.menu_scroll
+!--右侧--!
+downza.cn##.pull-right
+!--点击查看更多--!
+downza.cn###m_tags
+!--相关文章--!
+downza.cn###m_xgwz
+!--高速下载--!
+downza.cn##.down_remove
+downza.cn##.down_top
+!--分享--!
+downza.cn##.share
+!--推荐下载--!
+downza.cn##.hd
+downza.cn##.bd
+
+!--------------------------32r.com# rules-----------------------------!
+!--页顶--!
+32r.com##.top
+!--信息右侧--!
+32r.com##.DetCM1Right
+!--高速下载按钮--!
+32r.com##.DetCM1LLdown_new.gsdbtn
+!--右侧--!
+32r.com##.DContRight
+!--高速下载--!
+32r.com##.ptgsxz
+!--猜你喜欢--!
+32r.com###cnxh
+!--热门关键词--!
+32r.com##.DCLcnxh1
+
+!--------------------------zdfans.com# rules-----------------------------!
+!--页顶--!
+zdfans.com##.header-top
+!--信息右侧--!
+zdfans.com##.fo-right
+!--右侧--!
+zdfans.com##.sve-right
+!--高速下载--!
+zdfans.com###gaosuxiazai1
+!--猜你喜欢--!
+zdfans.com##.sive
+
+!--------------------------66huacai.com# rules-----------------------------!
+!--页顶--!
+66huacai.com##.site-top
+!--信息右侧--!
+66huacai.com##.soft-xiangguan
+!--右侧--!
+66huacai.com##.side.fr
+!--返回顶部--!
+66huacai.com###goTop
+!--相关文章--!
+66huacai.com###soft-likeArc
+!--大家都喜欢--!
+66huacai.com###soft-likeApp
+
+!--------------------------6down.net# rules-----------------------------!
+!--本类排行--!
+6down.net##.blph
+!--右侧--!
+6down.net##.fr
+!--猜你爱玩--!
+6down.net###cnaw
+
+!--------------------------opdown.com# rules-----------------------------!
+!--页顶--!
+opdown.com##.top
+!--信息右侧--!
+opdown.com##.down-side
+!--高速下载按钮--!
+opdown.com##.downnows
+!--右侧--!
+opdown.com##.soft-side
+!--高速下载--!
+opdown.com/misc/js/softside.js
+opdown.com##div[style="font-size: 12px; color: #fe7217; width: 252px; overflow: hidden; padding: 8px 5px; background: #f8f8f8; border: 1px solid #e8e8e8; border-radius: 4px; margin: 4px 0; text-align: center;"]
+opdown.com##.listaddr
+!--下载地址右侧--!
+opdown.com##.adv-box2
+!--悬浮广告--!
+opdown.com/js/op.js
+
+!--------------------------crsky.com# rules-----------------------------!
+!--页顶--!
+crsky.com##.topnav
+!--热搜关键字--!
+crsky.com##.hot
+!--高速下载按钮--!
+crsky.com##.ml10.Gs_d
+!--右侧--!
+crsky.com##.fr.WarpRight
+!--悬浮导航--!
+crsky.com###infloat
+!--高速下载--!
+crsky.com##.Adown_v_title
+crsky.com##.clearfix.Adown_v_gs
+!--下载地址右侧--!
+crsky.com##.fr.clearfix.adowGright
+
+!--------------------------qqtn.com# rules-----------------------------!
+!--页顶--!
+qqtn.com##.g-top-full
+!--信息右侧--!
+qqtn.com##.icolst
+!--高速下载按钮--!
+qqtn.com###showa
+!--推荐--!
+qqtn.com##.g-box-1200.g-main-bg.g-hotico
+!--悬浮导航--!
+qqtn.com##.m-ml-nav.f-float
+!--右侧--!
+qqtn.com##.g-rj-right
+!--猜你喜欢--!
+qqtn.com##.m-like-box
+!--高速下载--!
+qqtn.com##.address_like.u-gs-btn
+!--下载地址右侧--!
+qqtn.com##.u-right-ban
+!--相关版本--!
+qqtn.com##.g-tltj
+!--相关文章--!
+qqtn.com##.g-article
+
+!--------------------------downcc.com# rules-----------------------------!
+!--页顶--!
+downcc.com###topNavC
+!--热搜关键字--!
+downcc.com##.hot-search
+!--同类相关软件--!
+downcc.com##.hot-soft.mg-t10.news-title.w-265.fl-lf
+!--高速下载按钮--!
+downcc.com##.m-bdtn.downnowgaosu
+!--右侧--!
+downcc.com##.w-300.fl-rt
+!--相关--!
+downcc.com###xiangua
+!--高速下载--!
+downcc.com##.f-gsh3
+downcc.com###gaosuxiazai
+!--本类最新&相关文章--!
+downcc.com##.soft-details-news
