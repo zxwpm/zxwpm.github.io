@@ -13,8 +13,6 @@ baidu.com###content_right
 gsp0.baidu.com/
 hm.baidu.com/
 pos.baidu.com/
-baidustatic.com/
-bdstatic.com/
 
 !--------------------------blog.csdn.net rules-----------------------------!
 csdnimg.cn/release/phoenix/template/themes_skin/
@@ -87,13 +85,12 @@ pc6.com##.zban.fixed
 pc6.com##.search_fixed
 pc6.com##.tablist
 !--右侧--!
-pc6.com##.sidebar
+pc6.com###sidebar
 !--相关软件--!
 pc6.com##.catTable
 !--精品推荐--!
 pc6.com###xgk
 !--高速下载--!
-pc6.com##h3[style="margin:5px 0 -5px 0"]
 pc6.com###gaosuxiazai
 !--下载地址右侧广告--!
 pc6.com##.ad-download
@@ -136,38 +133,7 @@ zol.com.cn##.wrapper.ad-div
 zol.com.cn##.ad-div
 !--相关软件--!
 zol.com.cn##.tag-list.hot-soft-list
-
 p.zol.com.cn/download/detail.js
-
-
-!--------------------------zyouxiaxiazai.com rules-----------------------------!
-!--页顶--!
-youxiaxiazai.com##.top-nav
-!--内容与分类--!
-youxiaxiazai.com##.nryfl-w
-!--内容右侧--!
-youxiaxiazai.com##.nry-w300
-!--猜您需要--!
-youxiaxiazai.com###cnxy
-!--页脚--!
-youxiaxiazai.com###footer
-
-!--------------------------xp510.com rules-----------------------------!
-!--页顶--!
-xp510.com##.topbox
-!--热搜关键字--!
-xp510.com##.search-key
-!--相关软件--!
-xp510.com##.samesoft
-!--高速下载按钮--!
-xp510.com##.gaosu
-!--信息侧--!
-xp510.com##.c-w300
-!--高速下载--!
-xp510.com##.bzClick2
-xp510.com##.bzClick
-!--页脚--!
-xp510.com###footer
 
 !--------------------------uzzf.com rules-----------------------------!
 !--页顶--!
@@ -184,7 +150,6 @@ uzzf.com##.m-center-r
 uzzf.com###jies
 uzzf.com##.tags.tags_fixed
 !--高速下载--!
-uzzf.com##h3[style="margin:0 0 -5px 0;"]
 uzzf.com##.topdown
 !--下载地址右侧广告--!
 uzzf.com##.address_r
@@ -196,6 +161,7 @@ uzzf.com###blzx
 uzzf.com###bltj
 !--页脚--!
 uzzf.com##.g-footer
+http://a1.289.com/production/i91bf3.js
 
 !--------------------------onlinedown.net rules-----------------------------!
 !--页顶--!
@@ -506,7 +472,6 @@ opdown.com##.downnows
 opdown.com##.soft-side
 !--高速下载--!
 opdown.com/misc/js/softside.js
-opdown.com##div[style="font-size: 12px; color: #fe7217; width: 252px; overflow: hidden; padding: 8px 5px; background: #f8f8f8; border: 1px solid #e8e8e8; border-radius: 4px; margin: 4px 0; text-align: center;"]
 opdown.com##.listaddr
 !--下载地址右侧--!
 opdown.com##.adv-box2
